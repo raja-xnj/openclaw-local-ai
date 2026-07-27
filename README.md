@@ -4,9 +4,9 @@
 
 A fully reproducible setup for running [OpenClaw](https://github.com/openclaw) with [Ollama](https://ollama.com) inside a rootless [Podman](https://podman.io) container on Windows via WSL2 — with no cloud API dependencies.
 
-Built and documented by [Raja Das](https://www.linkedin.com/in/rajadas/) | [The Bridge Report](https://thebridge.report)
+Built and documented by [Raja Das](https://www.linkedin.com/in/rajadas/) | [AEDI Report]([https://thebridge.report](https://medium.com/@das_r/we-built-the-bridge-is-anyone-crossing-it-d884472bc0fb?sharedUserId=das_r))
 
-📖 **Full build story on Medium →** *(add your link here)*
+📖 **Full build story on Medium →** *[(add your link here](https://medium.com/@das_r/i-built-a-fully-air-gapped-openclaw-agent-on-my-puny-laptop-heres-the-messy-truth-a5c9e0520ce8?sharedUserId=das_r)*
 
 ---
 
