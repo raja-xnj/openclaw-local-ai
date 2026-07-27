@@ -4,9 +4,9 @@
 
 A fully reproducible setup for running [OpenClaw](https://github.com/openclaw) with [Ollama](https://ollama.com) inside a rootless [Podman](https://podman.io) container on Windows via WSL2 — with no cloud API dependencies.
 
-Built and documented by [Raja Das](www.linkedin.com/in/raja-das-0196401) | [AEDI Report]([https://thebridge.report](https://medium.com/@das_r/we-built-the-bridge-is-anyone-crossing-it-d884472bc0fb?sharedUserId=das_r))
+Built and documented by [Raja Das]www.linkedin.com/in/raja-das-0196401) | 
 
-📖 **Full build story on Medium →** *[[(add your link here](https://medium.com/@das_r/i-built-a-fully-air-gapped-openclaw-agent-on-my-puny-laptop-heres-the-messy-truth-a5c9e0520ce8?sharedUserId=das_r)*
+📖 **Full build story on Medium →** *[[(Link](https://medium.com/@das_r/i-built-a-fully-air-gapped-openclaw-agent-on-my-puny-laptop-heres-the-messy-truth-a5c9e0520ce8?sharedUserId=das_r)*
 
 ---
 
@@ -238,9 +238,9 @@ WSL2 + Ubuntu
 
 ## Related Writing
 
-- 📄 [Full build story on Medium](#) *(add link)*
-- 📰 [The Bridge Report](https://thebridge.report) — AI deployment strategy for regulated industries
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rajadas/)
+- 📄 [Full build story on Medium](#) *((https://medium.com/@das_r/i-built-a-fully-air-gapped-openclaw-agent-on-my-puny-laptop-heres-the-messy-truth-a5c9e0520ce8?sharedUserId=das_r))*
+- 📰 [The Bridge Report][(https://thebridge.report)](https://medium.com/@das_r/we-built-the-bridge-is-anyone-crossing-it-d884472bc0fb?sharedUserId=das_r) — AI deployment strategy for regulated industries
+- 🔗 [LinkedIn](www.linkedin.com/in/raja-das-0196401/)
 
 ---
 
